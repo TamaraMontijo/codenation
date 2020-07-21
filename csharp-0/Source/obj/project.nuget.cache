@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "snd3ZOnL78ZeePmT2hry8XoZSjUNp/s1rUukRqOAfytNvNdbQnUTF+rjYB5dM1PIxBvDR+NPhWkcQD4D4oGJFg==",
+  "success": true,
+  "projectFilePath": "/Users/tamara/codenation/csharp-0/Source/Source.csproj",
+  "expectedPackageFiles": [
+    "/Users/tamara/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/tamara/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

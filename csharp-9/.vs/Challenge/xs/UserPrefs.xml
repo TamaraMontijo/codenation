@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{791D4C16-8B76-4639-B775-AEF288D94469}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Source/Models/Candidate.cs">
+    <Files>
+      <File FileName="Source/Controllers/AccelerationController.cs" Line="50" Column="1" />
+      <File FileName="Source/Controllers/CandidateController.cs" />
+      <File FileName="Source/Controllers/CompanyController.cs" Line="56" Column="2" />
+      <File FileName="Source/Models/Candidate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Challenge" expanded="True">
+            <Node name="Source" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Source PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

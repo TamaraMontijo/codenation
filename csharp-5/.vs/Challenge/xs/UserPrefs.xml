@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{791D4C16-8B76-4639-B775-AEF288D94469}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Source/Controllers/QuoteController.cs">
+    <Files>
+      <File FileName="Source/Controllers/QuoteController.cs" Line="39" Column="58" />
+      <File FileName="Source/Services/QuoteService.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Challenge" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Source PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/tamara/codenation/csharp-1/Source/obj/Debug/netstandard2.0/Source.csprojAssemblyReference.cache
+/Users/tamara/codenation/csharp-1/Source/obj/Debug/netstandard2.0/Source.AssemblyInfoInputs.cache
+/Users/tamara/codenation/csharp-1/Source/obj/Debug/netstandard2.0/Source.AssemblyInfo.cs
+/Users/tamara/codenation/csharp-1/Source/obj/Debug/netstandard2.0/Source.csproj.CoreCompileInputs.cache
+/Users/tamara/codenation/csharp-1/Source/bin/Debug/netstandard2.0/Source.deps.json
+/Users/tamara/codenation/csharp-1/Source/bin/Debug/netstandard2.0/Source.dll
+/Users/tamara/codenation/csharp-1/Source/bin/Debug/netstandard2.0/Source.pdb
+/Users/tamara/codenation/csharp-1/Source/obj/Debug/netstandard2.0/Source.dll
+/Users/tamara/codenation/csharp-1/Source/obj/Debug/netstandard2.0/Source.pdb

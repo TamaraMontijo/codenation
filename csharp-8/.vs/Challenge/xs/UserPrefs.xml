@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{791D4C16-8B76-4639-B775-AEF288D94469}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Source/Services/ChallengeService.cs">
+    <Files>
+      <File FileName="Source/Services/ChallengeService.cs" Line="24" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Challenge" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Source PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
